@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-iOS-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS16-green)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS26-green)
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-success)
 
 ## 📱 About
